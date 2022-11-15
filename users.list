@@ -1,0 +1,44 @@
+[
+  {
+    "firstname": "Rustamjan ",
+    "lastname": "",
+    "age": "",
+    "phone": "",
+    "password": ""
+  },
+  {
+    "firstname": "Jalol",
+    "lastname": "Imomaddinov",
+    "age": "99",
+    "phone": "+99891421xxxx",
+    "password": "12345678"
+  },
+  {
+    "firstname": "fedya",
+    "lastname": "nazarov",
+    "age": "16",
+    "phone": "+998914218855",
+    "password": "qwertyui"
+  },
+  {
+    "firstname": "",
+    "lastname": "",
+    "age": "",
+    "phone": "656131341654",
+    "password": "12345678"
+  },
+  {
+    "firstname": "fd",
+    "lastname": "asasa",
+    "age": "4",
+    "phone": "1234567",
+    "password": "12345678"
+  },
+  {
+    "firstname": "Aliakbar",
+    "lastname": "Saidov",
+    "age": "13",
+    "phone": "+998999646798",
+    "password": "said250/"
+  }
+]
